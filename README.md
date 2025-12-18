@@ -112,5 +112,4 @@ rm ~/.local/bin/MONITOR
 
 ## Author
 
-Ahmed Galadi  
-1337 Coding School
+Ahmed Galadi
