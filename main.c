@@ -1,7 +1,7 @@
 #include "monitor.h"
 
 char *make_bar(double persentage) {
-	char *buffer = (char *)malloc(PROGRESS_BAR_LEN * 3);
+	char *buffer = (char *)malloc(PROGRESS_BAR_LEN * 8);
 	int full = (int)(persentage / 100.0 * PROGRESS_BAR_LEN);
 	
 	for (int i = 0; i < PROGRESS_BAR_LEN; i++) {
