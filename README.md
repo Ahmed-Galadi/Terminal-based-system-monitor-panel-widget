@@ -110,12 +110,6 @@ rm ~/.local/bin/MONITOR
 
 ---
 
-## License
-
-MIT License
-
----
-
 ## Author
 
 Ahmed Galadi  
