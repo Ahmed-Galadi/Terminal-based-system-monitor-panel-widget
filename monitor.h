@@ -9,6 +9,7 @@
 #include <unistd.h>
 
 #define INPUT_SIZE 10
+#define PROGRESS_BAR_LEN 5
 
 double tempCalc(void);
 double cpuCalc(void);
